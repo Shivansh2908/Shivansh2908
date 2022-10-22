@@ -1,18 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Shivansh</h1>
 
-<!--
-**Shivansh2908/Shivansh2908** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **python, html, css**
 
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about **python, data analytics, data science**
+
+- 📫 How to reach me **shivanshsinha2908@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://twitter.com/shivansh_sinha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivansh_sinha_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivansh ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivansh ." height="30" width="40" /></a>
+<a href="https://kaggle.com/shivansh29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shivansh29" height="30" width="40" /></a>
+<a href="https://medium.com/@shivanshsinha2908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shivanshsinha2908" height="30" width="40" /></a>
+<a href="https://github.com/Shivansh2908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Shivansh2908" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 
 
-- 🔭 I’m currently working on python to create mobile application.
-- 🌱 I’m currently learning python, html, css, canva & figma 
-- 🤔 I’m looking for help with python app development and web development. 
-- 💬 Ask me about python, data analytics, data science
-- 📫 How to reach me: ...
-### Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -24,8 +30,6 @@ Here are some ideas to get you started:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-### Contact me 
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Shivansh_Sinha_)
--->
+
+
+
