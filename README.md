@@ -10,7 +10,7 @@
 
 <p align="left">
 <a href="https://twitter.com/shivansh_sinha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivansh_sinha_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shivansh ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shivansh ." height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Shivansh ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shivansh ." height="30" width="40" /></a>
 <a href="https://kaggle.com/shivansh29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shivansh29" height="30" width="40" /></a>
 <a href="https://medium.com/@shivanshsinha2908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shivanshsinha2908" height="30" width="40" /></a>
 <a href="https://github.com/Shivansh2908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Shivansh2908" height="30" width="40" /></a>
